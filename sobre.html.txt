@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Sobre</title>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Início</a></li>
+      <li><a href="galeria.html">Galeria</a></li>
+      <li><a href="sobre.html">Sobre</a></li>
+    </ul>
+  </nav>
+
+  <h1>Sobre Este Site</h1>
+  <p>Este site foi criado como parte da atividade de HTML.</p>
+  <p>Autor: Seu Nome Completo</p>
+</body>
+</html>

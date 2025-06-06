@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Página Principal</title>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Início</a></li>
+      <li><a href="galeria.html">Galeria</a></li>
+      <li><a href="sobre.html">Sobre</a></li>
+    </ul>
+  </nav>
+
+  <h1>Bem-vindo ao Meu Site</h1>
+  <p>Esta é a página principal do meu site feito para a atividade de HTML.</p>
+
+  <p><a href="https://www.google.com">Visite o Google</a></p>
+
+  <!-- Vídeo do YouTube -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
+</body>
+</html>
